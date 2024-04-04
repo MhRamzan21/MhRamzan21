@@ -1,9 +1,9 @@
 <h2 align="center">
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A04&center=true&random=false&width=435&lines=Muhammad+Ramzan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1000&pause=1000&color=F7098B&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Muhammad+Ramzan)](https://git.io/typing-svg)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F73407&center=true&random=false&width=435&lines=Full+Stack+Developer;MERN+Developer;Enthuastic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7098B&center=true&vCenter=true&repeat=true&random=false&width=635&lines=Full+Stack+Developer;Tech-savvy+problem+solver;Solution-driven;Always+Learning+new+things)](https://git.io/typing-svg)
 
 
 </h2>
